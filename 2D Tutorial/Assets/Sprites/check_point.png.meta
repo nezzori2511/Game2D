@@ -1,0 +1,918 @@
+fileFormatVersion: 2
+guid: 7068ddeea831fd04b9270485225c7298
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -710500162681262210
+    second: check_point_0
+  - first:
+      213: -1936365708656050405
+    second: check_point_1
+  - first:
+      213: -1057179436893693486
+    second: check_point_2
+  - first:
+      213: 4514608467804027346
+    second: check_point_3
+  - first:
+      213: 5115587365981378764
+    second: check_point_4
+  - first:
+      213: -1393272801869979147
+    second: check_point_5
+  - first:
+      213: -4593273814113140136
+    second: check_point_6
+  - first:
+      213: 715617806457036072
+    second: check_point_7
+  - first:
+      213: 3847972254906753323
+    second: check_point_8
+  - first:
+      213: 6940070034571680597
+    second: check_point_9
+  - first:
+      213: 4424534291506618398
+    second: check_point_10
+  - first:
+      213: -3991945750285770666
+    second: check_point_11
+  - first:
+      213: 7803623789289862711
+    second: check_point_12
+  - first:
+      213: 1253450813316938547
+    second: check_point_13
+  - first:
+      213: -6945850441029700946
+    second: check_point_14
+  - first:
+      213: 806899613490898359
+    second: check_point_15
+  - first:
+      213: -6106231462377792151
+    second: check_point_16
+  - first:
+      213: 8975841230618299791
+    second: check_point_17
+  - first:
+      213: 667360955626560355
+    second: check_point_18
+  - first:
+      213: 7050580258866519445
+    second: check_point_19
+  - first:
+      213: 5404062032914119541
+    second: check_point_20
+  - first:
+      213: -3947424276533476810
+    second: check_point_21
+  - first:
+      213: -5094596744766408982
+    second: check_point_22
+  - first:
+      213: 8050923554618679292
+    second: check_point_23
+  - first:
+      213: 3137378444791634944
+    second: check_point_24
+  - first:
+      213: -6875735822328997955
+    second: check_point_25
+  - first:
+      213: 371262851836324949
+    second: check_point_26
+  - first:
+      213: -137868087706951747
+    second: check_point_27
+  - first:
+      213: -497140749859090348
+    second: check_point_28
+  - first:
+      213: -1040510048578043004
+    second: check_point_29
+  - first:
+      213: -2062012415943680141
+    second: check_point_30
+  - first:
+      213: 467437500628426690
+    second: check_point_31
+  - first:
+      213: 3140669697625819648
+    second: check_point_32
+  - first:
+      213: 8466886179146997227
+    second: check_point_33
+  - first:
+      213: -105598013211552971
+    second: check_point_34
+  - first:
+      213: 7321917108071212954
+    second: check_point_35
+  - first:
+      213: 6766679467842335610
+    second: check_point_36
+  - first:
+      213: 2436210791318758300
+    second: check_point_37
+  - first:
+      213: 5649373726538657550
+    second: check_point_38
+  - first:
+      213: -958382703859388362
+    second: check_point_39
+  - first:
+      213: -7008646277926873365
+    second: check_point_40
+  - first:
+      213: -329307863638136994
+    second: check_point_41
+  - first:
+      213: 301506263332693414
+    second: check_point_42
+  - first:
+      213: 2527616560185103019
+    second: check_point_43
+  - first:
+      213: 2816820901166126494
+    second: check_point_44
+  - first:
+      213: -4506784189422405817
+    second: check_point_45
+  - first:
+      213: -9203472949758016079
+    second: check_point_46
+  - first:
+      213: 4096875380324916727
+    second: check_point_47
+  - first:
+      213: 8563016684186055238
+    second: check_point_48
+  - first:
+      213: 3631229736169350454
+    second: check_point_49
+  - first:
+      213: 7636494478213475562
+    second: check_point_50
+  - first:
+      213: 2860389166776897786
+    second: check_point_51
+  - first:
+      213: 3426505712376271138
+    second: check_point_52
+  - first:
+      213: 4958114533079970556
+    second: check_point_53
+  - first:
+      213: -8900314775035181197
+    second: check_point_54
+  - first:
+      213: 1532432944744238649
+    second: check_point_55
+  - first:
+      213: 8081548846422472882
+    second: check_point_56
+  - first:
+      213: -6618413628428048576
+    second: check_point_57
+  - first:
+      213: 4672780209565743648
+    second: check_point_58
+  - first:
+      213: -1204763100447794036
+    second: check_point_59
+  - first:
+      213: -6555796923323104001
+    second: check_point_60
+  - first:
+      213: -5719051874119083377
+    second: check_point_61
+  - first:
+      213: -1080482297764902637
+    second: check_point_62
+  - first:
+      213: 4491728813023235467
+    second: check_point_63
+  - first:
+      213: -862454183253339333
+    second: check_point_64
+  - first:
+      213: -4711593197849478969
+    second: check_point_65
+  - first:
+      213: 2791787926837737636
+    second: check_point_66
+  - first:
+      213: 2128057178760278441
+    second: check_point_67
+  - first:
+      213: -3085682059616958690
+    second: check_point_68
+  - first:
+      213: -6686590669634046579
+    second: check_point_69
+  - first:
+      213: -3970229456948527019
+    second: check_point_70
+  - first:
+      213: -2860455447566396680
+    second: check_point_71
+  - first:
+      213: -7059580421077960995
+    second: check_point_72
+  - first:
+      213: -5785004541741460946
+    second: check_point_73
+  - first:
+      213: 2975393269583483628
+    second: check_point_74
+  - first:
+      213: 6153404245512947267
+    second: check_point_75
+  - first:
+      213: 6766624713070618446
+    second: check_point_76
+  - first:
+      213: 4956813023180159056
+    second: check_point_77
+  - first:
+      213: -3063219368361589569
+    second: check_point_78
+  - first:
+      213: 4834509070648915722
+    second: check_point_79
+  - first:
+      213: 6229155609730537813
+    second: check_point_80
+  - first:
+      213: 4114064031080163966
+    second: check_point_81
+  - first:
+      213: -6843225620188110731
+    second: check_point_82
+  - first:
+      213: 5738090901445458624
+    second: check_point_83
+  - first:
+      213: -4997017253363602250
+    second: check_point_84
+  - first:
+      213: 8908257083335538789
+    second: check_point_85
+  - first:
+      213: 8764057374001971753
+    second: check_point_86
+  - first:
+      213: 1517744096820490945
+    second: check_point_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: check_point_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 388
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fa68ecddbc326f0800000000000000
+      internalID: -710500162681262210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 388
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ffe44b5a5a025e0800000000000000
+      internalID: -1936365708656050405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 388
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99a1047e42451f0800000000000000
+      internalID: -1057179436893693486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 388
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9fd676b7c17ae30800000000000000
+      internalID: 4514608467804027346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 388
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8dbc61b973ef640800000000000000
+      internalID: 5115587365981378764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 388
+        width: 51
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1a351c4c91aace0800000000000000
+      internalID: -1393272801869979147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 388
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852cea16dc96140c0800000000000000
+      internalID: -4593273814113140136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_7
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 388
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dd0dc7a926ee900800000000000000
+      internalID: 715617806457036072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_8
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 388
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21a64fd06eb66530800000000000000
+      internalID: 3847972254906753323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 274
+        width: 55
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b5af62de4105060800000000000000
+      internalID: 6940070034571680597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 273
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1069c5fe7a176d30800000000000000
+      internalID: 4424534291506618398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 274
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65026978d72c998c0800000000000000
+      internalID: -3991945750285770666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 274
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736f861bd7a0c4c60800000000000000
+      internalID: 7803623789289862711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 125
+        width: 25
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ca002c89df62500800000000000000
+      internalID: 371262851836324949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 125
+        width: 25
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf5d5664b1361ef0800000000000000
+      internalID: -137868087706951747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 125
+        width: 31
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45017493f1dc919f0800000000000000
+      internalID: -497140749859090348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 125
+        width: 41
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4830849af9d5f81f0800000000000000
+      internalID: -1040510048578043004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_30
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 125
+        width: 51
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f5b39f1a24263e0800000000000000
+      internalID: -2062012415943680141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_31
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 125
+        width: 51
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf57a32eebac7600800000000000000
+      internalID: 467437500628426690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_32
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 125
+        width: 52
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a02d33376e59b20800000000000000
+      internalID: 3140669697625819648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_33
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 125
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed98b5de1c608570800000000000000
+      internalID: 8466886179146997227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_34
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 125
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533d98d9a27d88ef0800000000000000
+      internalID: -105598013211552971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_35
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 125
+        width: 55
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97a07d01dcac9560800000000000000
+      internalID: 7321917108071212954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 54
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73fba5ef1318ed50800000000000000
+      internalID: 6766679467842335610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93278e9ec82fc120800000000000000
+      internalID: 2436210791318758300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_point_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fe2cdf87b966e40800000000000000
+      internalID: 5649373726538657550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
